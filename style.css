@@ -315,10 +315,10 @@ body {
   width: 65%;
 }
 .bar .progress-line.python span {
-  width: 50%;
+  width: 70%;
 }
 .bar .progress-line.mysql span {
-  width: 30%;
+  width: 60%;
 }
 .progress-line span::before {
   position: absolute;
@@ -362,10 +362,10 @@ body {
   content: "65%";
 }
 .progress-line.python span::after {
-  content: "50%";
+  content: "70%";
 }
 .progress-line.mysql span::after {
-  content: "30%";
+  content: "60%";
 }
 footer {
   position: relative;
